@@ -2,4 +2,4 @@
 echo "hello world"
 free || cat /proc/meminfo
 
-sleep 180
+sleep 10800
