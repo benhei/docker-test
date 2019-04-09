@@ -1,4 +1,5 @@
 #!/bin/bash
 echo "hello world"
+free || cat /proc/meminfo
+
 sleep 180
-exit 1
